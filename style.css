@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(127, 255, 255);
+    margin: 0%;
+    padding: 5px;
+}
+.container {
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.601);
+    width: 70%;
+}
+h1,h2 {
+    text-align: center;
+    color: black;
+    margin-bottom: 15px;
+}
+section {
+    margin-bottom: 30px;
+}
+.formsection {
+    background-color:rgb(135, 215, 222);
+    padding: 30px;
+    border: 1px solid rgba(21, 255, 0, 0.367)
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font: bold;
+}
+
+input, select{
+    width: 100%;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+button {
+    background-color: rgba(0, 115, 255, 0.54);
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+    border-radius: 15px;
+}
+.Emptable {
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(112, 112, 200);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #9c9696;
+}
+
+th {
+    background-color: rgb(112, 112, 200);
+    color: white;
+}
+.Emplist{
+    background-color: aliceblue;
+    padding: 15px;
+    border: 1px solid #af7d7d;
+}
+#employeelist li {
+    border-bottom: px solid #af7d7d;
+}
+.map{
+    text-align: center;
+}
+iframe {
+    height: 400px;
+    width: 100px;
+    border: 0;
+}
