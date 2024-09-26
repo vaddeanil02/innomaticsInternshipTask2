@@ -69,11 +69,3 @@ th {
 #employeelist li {
     border-bottom: px solid #af7d7d;
 }
-.map{
-    text-align: center;
-}
-iframe {
-    height: 400px;
-    width: 100px;
-    border: 0;
-}
